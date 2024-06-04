@@ -1,3 +1,4 @@
+import './assets/main.css'
 import { createApp } from "vue";
 import { createWebHistory, createRouter } from "vue-router";
 
